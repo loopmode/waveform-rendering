@@ -53,7 +53,7 @@ so that the composite image corresponds with the timeline
 
 - effort: medium for client, none for server
 - pro: the waveform corresponds with the timeline
-- pro: only stretched vertically, doesn't look as blurry
+- pro: only stretched vertically, look slightly less blurry
 
 ### 3) do not render waveforms initially, simple
 
