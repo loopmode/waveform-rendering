@@ -35,7 +35,7 @@ other:
 
 ## WORKAROUNDS
 
-Biggest pro for all workarounds is the reltaively low effort needed to implement them
+Biggest pro for all workarounds is the relatively low effort needed to implement them
 
 ### 1) never render waveforms, use v1 keyframe images
 
