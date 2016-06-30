@@ -1,4 +1,4 @@
-# audio waveformss
+# audio waveforms
 
 ## situation
 
