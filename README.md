@@ -70,7 +70,7 @@ Once the entire file is loaded, the playback starts and the waveform is rendered
 ### 4) do not display waveforms intially, advanced
 
 Client performs two requests in parallel:
-one request or quick playbacks start using just a fragment like `#t=10,15`
+one request for quick playback start using just a fragment like `#t=10,15`
 one request for waveform rendering, loading the entire file
 Playback needs to either switch from the simple audio element to the one with the entire file,
 or both audio elements are playing, but the one with the waveform is set to volume=0 and is only used for showing the waveform
